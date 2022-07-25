@@ -6,7 +6,7 @@ function presenca(){
   let td = [];
   for(let i = 0; i < 6; i++){
     td[i] = document.createElement("td");
-    td[i].innerHTML = "x"
+    td[i].innerHTML = "X"
   }
 
   tdNome.innerHTML = nome;
